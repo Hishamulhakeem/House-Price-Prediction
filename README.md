@@ -8,57 +8,44 @@ This project builds a powerful house price prediction system tailored for Mumbai
 
 🚀 Features
 
-Dynamic Feature Selection: Users can choose relevant features like bedrooms, bathrooms, and location.
-
-User-Friendly Input: Collects feature values through console prompts.
-
-Data Handling: Manages missing values and cleans the dataset.
-
-Visualization: Generates insightful charts for data exploration.
-
-High Accuracy: Achieves a remarkable R² score of ~0.95.
+🔸Dynamic Feature Selection: Users can choose relevant features like bedrooms, bathrooms, and location.
+🔸User-Friendly Input: Collects feature values through console prompts.
+🔸Data Handling: Manages missing values and cleans the dataset.
+🔸Visualization: Generates insightful charts for data exploration.
+🔸High Accuracy: Achieves a remarkable R² score of ~0.95.
 
 ⚙️ Technology Used
 
-Python for scripting and data manipulation
-
-Pandas, NumPy for data handling
-
-Scikit-learn for machine learning
-
-Matplotlib, Seaborn for data visualization
+🔸Python for scripting and data manipulation
+🔸Pandas, NumPy for data handling
+🔸Scikit-learn for machine learning
+🔸Matplotlib, Seaborn for data visualization
 
 📊 Dataset
 
-File: Mumbai_House_Price_Pred.csv
-
-Key Features: Bedroom, Bathroom, Area, Location, Age of Property, Parking Space, Amenities, etc.
+🔸File: Mumbai_House_Price_Pred.csv
+🔸Key Features: Bedroom, Bathroom, Area, Location, Age of Property, Parking Space, Amenities, etc.
 
 🧠 Models Used
 
-Random Forest Regressor (with max_depth=5)
-
-One-hot encoding for categorical features
+🔸Random Forest Regressor (with max_depth=5)
+🔸One-hot encoding for categorical features
 
 📈 Visualizations
 
-Price Distribution Across Locations
-
-Price vs Bedroom Count
-
-Age of Property Distribution
+🔸Price Distribution Across Locations
+🔸Price vs Bedroom Count
+🔸Age of Property Distribution
 
 🧾 Results
 
-R² Score: 0.9483 (~0.95)
+🔸R² Score: 0.9483 (~0.95)
 
 🚀 Future Improvements
 
-Add more complex models 
-
-Build a web app using Streamlit
-
-Automate feature engineering
+🔸Add more complex models 
+🔸Build a web app using Streamlit
+🔸Automate feature engineering
 
 🧑‍💻 Author
 
