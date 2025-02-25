@@ -1,0 +1,21 @@
+Bedroom,Bathroom,Location,Property Type,Area (sqft),Floors,Age (years),Furnished,Parking,Balcony,Facing,Nearby Schools,Nearby Hospitals,Connectivity Score,price
+2,2,Bangalore,Apartment,1200,2,5,Semi,1,1,East,4,3,8,5500000
+3,3,Mysore,Villa,1800,1,3,Fully,2,2,North,3,2,7,7800000
+4,3,Chennai,Independent,2500,2,10,Unfurn,2,3,West,5,4,6,9200000
+2,1,Mumbai,Apartment,800,1,2,Semi,1,1,South,4,5,9,4800000
+3,2,Pune,Duplex,1600,3,7,Fully,1,2,East,2,3,8,6900000
+2,2,Hyderabad,Villa,2000,2,4,Semi,2,2,North,5,5,7,8500000
+5,4,Delhi,Independent,3000,3,15,Fully,3,4,West,3,2,5,10500000
+4,3,Kolkata,Apartment,1100,1,6,Unfurn,1,2,South,4,4,6,6000000
+3,3,Bangalore,Villa,1700,2,5,Semi,2,2,East,3,3,7,7400000
+3,2,Mysore,Independent,1900,1,8,Fully,2,3,North,5,5,6,8100000
+4,3,Chennai,Duplex,2600,2,12,Unfurn,2,3,West,4,4,5,9700000
+2,1,Mumbai,Villa,900,1,3,Semi,1,1,South,4,3,8,5000000
+5,5,Pune,Apartment,2800,4,14,Fully,3,3,East,3,2,4,11200000
+3,2,Hyderabad,Independent,1500,2,9,Unfurn,2,2,North,2,5,7,7200000
+2,2,Delhi,Duplex,1000,1,2,Semi,1,1,West,5,3,9,5300000
+4,3,Kolkata,Villa,2300,3,11,Fully,2,3,South,3,4,6,9000000
+3,2,Bangalore,Apartment,1300,1,4,Unfurn,1,1,East,2,2,8,6400000
+5,4,Mysore,Independent,3100,3,16,Semi,3,4,North,4,5,5,11800000
+2,1,Chennai,Villa,850,1,1,Fully,1,1,West,3,3,9,4600000
+4,3,Mumbai,Apartment,2700,2,13,Unfurn,2,3,South,5,4,4,10200000
