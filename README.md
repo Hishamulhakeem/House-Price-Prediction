@@ -30,8 +30,8 @@ This project builds a powerful house price prediction system tailored for Mumbai
 
 📊 Dataset
 
-🔸File: Mumbai_House_Price_Pred.csv ,  
-The Dataset is randomly genrated using gpt which is realted to Mumbai town  
+🔸File: Mumbai_House_Price_Pred.csv , The Dataset is randomly genrated using gpt which is realted to Mumbai town  
+
 🔸Key Features: Bedroom, Bathroom, Area, Location, Age of Property, Parking Space, Amenities, etc.
 
 🧠 Models Used
